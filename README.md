@@ -1,3 +1,4 @@
+```
 # nginx-vue-config
 vue项目中配置nginx代理
 
@@ -36,3 +37,5 @@ $http('GFSMOBILE009', {"adSiteId": "10"}, this.getImage);
 也可以代理到老街口地址，不过要改成post请求
  
  
+
+```
